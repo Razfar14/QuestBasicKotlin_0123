@@ -1,2 +1,2 @@
-// Read only list
-C:\Users\rajar\Pemrograman_dan_Data_UMY\PAM\Kotline\SS\Screenshot 2026-09-25 173844.png
+// Read only list <br>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d8bfef80-ad62-462c-93f9-c1eb09a1b1cb" />
