@@ -1,2 +1,4 @@
-// Read only list
-C:\Users\rajar\Pemrograman_dan_Data_UMY\PAM\Kotline\SS\Screenshot 2026-09-25 173844.png
+// Read only list <br>
+<img src="SS/Screenshot 2026-09-25 174241.png" /> <br>
+// Mutable list <br>
+
